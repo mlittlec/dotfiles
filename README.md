@@ -1,4 +1,6 @@
-# dotfiles
+# dotfiles (My Environment Setup)
+
+This repository contains scripts and configuration files to set up a development environment for macOS and/or Linux sytstems. It's tailored for software development, focusing on a clean, minimal, and efficient setup.
 
 ## License
 
